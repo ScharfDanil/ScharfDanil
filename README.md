@@ -1,3 +1,5 @@
 👋 Hi, my name is Danil Scharf @ScharfDanil
+
 👀 I am new to coding and I am interested in coding
+
 🌱 I am currently learning Python
