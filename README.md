@@ -1,4 +1,4 @@
-👋 Hi, my name is Danil Scharf @ScharfDanil
+👋 Hi, my name is Danil Scharf
 
 👀 I am new to coding and I am interested in coding
 
